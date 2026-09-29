@@ -1,0 +1,5 @@
+order_id,customer_id,customer_name,order_date,amount
+1001,101,Priya,2026-09-28,500
+1002,102,Rahul,2026-09-28,750
+1003,103,Anu,2026-09-28,300
+1004,104,Kiran,2026-09-28,900

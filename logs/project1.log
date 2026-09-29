@@ -1,0 +1,53 @@
+2026-09-28 14-42-54 | INFO | Job started
+2026-09-28 14-42-54 | INFO | /home/priya/my_first_de_project/logs//project1.log - Directory doen't exist
+2026-09-28 14-46-03 | INFO | Job started
+2026-09-d 14-46-03 | ERROR | /home/priya/my_first_de_project/input/ - Directory doen't exist
+2026-09-29 03-11-00 | INFO | Job started
+2026-09-29 03-13-20 | INFO | Job started
+2026-09-29 03-14-40 | INFO | Job started
+2026-09-29 03-15-48 | INFO | Job started
+2026-09-29 03-16-22 | INFO | Job started
+2026-09-29 03-16-49 | INFO | Job started
+2026-09-29 03-17-27 | INFO | Job started
+2026-09-29 03-18-52 | INFO | Job started
+2026-09-29 03-19-51 | INFO | Job started
+2026-09-29 03-25-21 | INFO | Job started
+2026-09-29 03-26-53 | INFO | Job started
+2026-09-d 03-26-53 | ERROR | csv files are not found
+2026-09-29 03-27-47 | INFO | Job started
+2026-09-d 03-27-47 | ERROR | csv files are not found
+2026-09-29 03-32-37 | INFO | Job started
+2026-09-d 03-32-37 | ERROR | csv files are not found
+2026-09-29 03-34-48 | INFO | Job started
+2026-09-29 03-34-48 | INFO | Processing the {/home/priya/my_first_de_project/input//customer_orders_20260928.csv[@]}
+2026-09-d 03-34-48 | ERROR | file doesn't exist
+2026-09-29 03-37-47 | INFO | Job started
+2026-09-29 03-37-47 | INFO | Processing the /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-37-47 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 1
+2026-09-d 03-37-54 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-38-04 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 2
+2026-09-d 03-38-06 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-38-16 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 3
+2026-09-d 03-38-20 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-d 03-38-20 | ERROR | upload failed after trying 4 attempt and 3
+2026-09-29 03-41-50 | INFO | Job started
+2026-09-29 03-41-50 | INFO | Processing the /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-41-50 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 1
+2026-09-d 03-41-53 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-42-03 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 2
+2026-09-d 03-42-04 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-42-14 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 3
+2026-09-d 03-42-16 | ERROR | Failed to upload the file - /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-d 03-42-16 | ERROR | upload failed after trying 4 attempt and 3
+2026-09-29 03-45-10 | INFO | Job started
+2026-09-29 03-45-10 | INFO | Processing the /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-45-10 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 1
+2026-09-29 03-45-12 | INFO | /home/priya/my_first_de_project/input//customer_orders_20260928.csv has been uploaded successfully
+2026-09-d 03-45-12 | ERROR | /home/priya/my_first_de_project/input//customer_orders_20260928.csv not moved to archive location
+2026-09-29 03-46-49 | INFO | Job started
+2026-09-29 03-46-49 | INFO | Processing the /home/priya/my_first_de_project/input//customer_orders_20260928.csv
+2026-09-29 03-46-49 | INFO | Uploading to s3 /home/priya/my_first_de_project/input//customer_orders_20260928.csv in progress - attempt 1
+2026-09-29 03-46-51 | INFO | /home/priya/my_first_de_project/input//customer_orders_20260928.csv has been uploaded successfully
+2026-09-d 03-46-51 | ERROR | /home/priya/my_first_de_project/input//customer_orders_20260928.csv not moved to archive location
+2026-09-29 03-50-37 | INFO | Job started
+2026-09-d 03-50-37 | ERROR | csv files are not found

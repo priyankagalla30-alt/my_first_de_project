@@ -1,0 +1,20 @@
+#!/bin/bash
+
+INPUT_DIR="$HOME/my_first_de_project/input/"
+LOGS_DIR="$HOME/my_first_de_project/logs/"
+LOG_FILELOG_FILE="$LOGS_DIR/project1.log"
+ARCHIVE_DIR="$HOME/my_first_de_project/logs/archive/"
+S3_BUCKET="s3://priya-de-project-2026/raw/incoming/"
+
+source ./log_info.sh
+
+max_retries=3
+log_info "Job started"
+
+mkdir -p "$LOGS_DIR"
+
+if [ -d "$INPUT_DIR" ]
+then 
+	log_error "$INPUT_DIR - Directory doen't exist" 
+fi
+

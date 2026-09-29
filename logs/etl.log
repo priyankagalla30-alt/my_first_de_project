@@ -1,0 +1,18 @@
+2026-09-24 04-51-21 | INFO | Job Started
+2026-09-24 04-51-21 | ERROR | csv files are not found
+2026-09-24 04-52-05 | INFO | Job Started
+2026-09-24 04-52-05 | ERROR | csv files are not found
+2026-09-24 06-39-01 | INFO | Job Started
+2026-09-24 06-39-01 | INFO | Processing the file: /home/priya/my_first_de_project/input//customers.csv
+2026-09-24 06-39-01 | INFO | Uploading /home/priya/my_first_de_project/input//customers.csv - attempt 1
+2026-09-24 06-39-01 | ERROR | uploaded failed /home/priya/my_first_de_project/input//customers.csv - attempt 1
+2026-09-24 06-39-11 | INFO | Uploading /home/priya/my_first_de_project/input//customers.csv - attempt 2
+2026-09-24 06-39-11 | ERROR | uploaded failed /home/priya/my_first_de_project/input//customers.csv - attempt 2
+2026-09-24 06-39-21 | INFO | Uploading /home/priya/my_first_de_project/input//customers.csv - attempt 3
+2026-09-24 06-39-21 | ERROR | uploaded failed /home/priya/my_first_de_project/input//customers.csv - attempt 3
+2026-09-24 06-39-21 | ERROR | upload failed after 3 attempts: /home/priya/my_first_de_project/input//customers.csv
+2026-09-24 07-12-52 | INFO | Job Started
+2026-09-24 07-12-52 | INFO | Processing the file: /home/priya/my_first_de_project/input//customers.csv
+2026-09-24 07-12-52 | INFO | Uploading /home/priya/my_first_de_project/input//customers.csv - attempt 1
+2026-09-24 07-12-55 | INFO | successfully uploaded: /home/priya/my_first_de_project/input//customers.csv
+2026-09-24 07-12-55 | INFO | moved to archive: /home/priya/my_first_de_project/input//customers.csv
